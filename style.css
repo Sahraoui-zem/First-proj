@@ -25,13 +25,15 @@ body {
 }
 
 
-
 .container2 {
-  padding: 2rem 2rem;
+  padding: 2rem;
+  display: flex;
+  width: 10rem;
   text-align: center;
-  border-radius: 14px;  
+  border-radius: 14px;
   background: #00ffea;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  margin: 2rem auto;
 }
 
 .container2 .icon {
@@ -44,10 +46,14 @@ body {
   border-radius: 50%;  
 }
 
-.container2 .icon img:hover {
+.con img:hover {
   transform: scale(1.1);
 }
-
+.container2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
 
 
 .result_images {
