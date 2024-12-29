@@ -8,7 +8,6 @@
 }
 body {
   height: 100vh;
-  display: block;
   align-items: center;
   justify-content: center;
   background: #f6f7fb;
@@ -53,7 +52,7 @@ body {
 
 .result_images {
   display: flex;
-  column-gap: 7rem;
+  column-gap: 6rem;
 }
 .container.start .user_result {
   transform-origin: left;
