@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  height: 100vh;
+  height: 100vh;  
   align-items: center;
   justify-content: center;
   background: #f6f7fb;
@@ -36,6 +36,7 @@ body {
   margin: 2rem auto;
 }
 
+
 .container2 .icon {
   margin: 0 10px;
 }
@@ -46,14 +47,17 @@ body {
   border-radius: 50%;  
 }
 
-.con img:hover {
+.container2 .icon img:hover {
   transform: scale(1.1);
 }
+
+
 .container2 a{
     text-decoration: none;
     color: black;
     font-size: 15px;
 }
+
 
 
 .result_images {
