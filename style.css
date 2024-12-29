@@ -15,7 +15,7 @@ body {
 }
 ::selection {
   color: #fff;
-  background-color: #ff5f55;
+  background-color: #7d2ae8;
 }
 .container {
   padding: 2rem 2rem;
@@ -25,26 +25,30 @@ body {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
+
+
 .container2 {
   padding: 2rem 2rem;
   text-align: center;
-  border-radius: 14px;
+  border-radius: 14px;  
   background: #00ffea;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
-
 .container2 .icon {
   margin: 0 10px;
 }
+
 .container2 .icon img {
   width: 50px;
   height: 50px;
-  border-radius: 50%;
+  border-radius: 50%;  
 }
+
 .container2 .icon img:hover {
   transform: scale(1.1);
 }
+
 
 
 .result_images {
